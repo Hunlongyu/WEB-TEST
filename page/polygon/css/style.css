@@ -1,0 +1,70 @@
+*{
+	margin: 0;
+	padding: 0;
+	float: left;
+	
+}
+body{
+	background-color: #333;
+}
+
+#rectangle{
+	width: 250px;
+	height: 150px;
+	background-color: #fff;
+	margin: 20px;
+}
+
+#triangleUp{
+	border-left: 75px solid transparent;
+	border-right: 75px solid transparent;
+	border-bottom: 150px solid #FFFFFF;
+	width: 0;
+	height: 0;
+	margin: 20px;
+}
+
+#oval{
+	width: 300px;
+	height: 150px;
+	background-color: #FFFFFF;
+	border-radius: 150px/75px;
+	margin: 20px;
+}
+
+#moon{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	box-shadow: 15px 15px 0 0 #FFFFFF;
+	margin: 5px;
+}
+
+#leaf{
+	border-radius: 5px 300px 3px 300px;
+	background-color: #FFFFFF;
+	width: 150px;
+	height: 150px;
+	margin: 20px 20px 20px 40px;
+}
+
+p{
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
